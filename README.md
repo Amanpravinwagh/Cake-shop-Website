@@ -1,2 +1,2 @@
 # Website
-The website I will build will be in this folder
+This Project is normal e-commerce website that I have build in my internship phase in diploma 2nd year
